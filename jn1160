@@ -1,0 +1,6 @@
+回声“＃zm70” >> README.md 
+git init 
+git add README.md 
+git commit -m“第一次提交” 
+git remote add origin https://github.com/jnjn666/zm70.git
+ git push -u origin master
